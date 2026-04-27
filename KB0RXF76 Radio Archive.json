@@ -1,0 +1,189 @@
+[
+    {
+        "key": "group_tape_entry",
+        "title": "Tape Entry",
+        "fields": [
+            {
+                "key": "field_tape_id",
+                "label": "Tape ID",
+                "name": "tape_id",
+                "type": "text",
+                "instructions": "Auto-assigned. e.g. T-0001",
+                "required": 1
+            },
+            {
+                "key": "field_date_recorded",
+                "label": "Date Recorded",
+                "name": "date_recorded",
+                "type": "text",
+                "instructions": "e.g. 5-16-1992 or Spring 1989"
+            },
+            {
+                "key": "field_time_utc",
+                "label": "Time (UTC)",
+                "name": "time_utc",
+                "type": "text",
+                "instructions": "Shortwave only. e.g. 0000-0800 UTC. Leave blank for FM/AM."
+            },
+            {
+                "key": "field_station",
+                "label": "Station",
+                "name": "station",
+                "type": "text",
+                "instructions": "Call letters or Unknown"
+            },
+            {
+                "key": "field_frequency",
+                "label": "Frequency",
+                "name": "frequency",
+                "type": "text",
+                "instructions": "e.g. 103.7 MHz FM or 4915 kHz"
+            },
+            {
+                "key": "field_station_location",
+                "label": "Station Location",
+                "name": "station_location",
+                "type": "text",
+                "instructions": "City, State or Unknown"
+            },
+            {
+                "key": "field_talent_dj",
+                "label": "Talent / DJ",
+                "name": "talent_dj",
+                "type": "text",
+                "instructions": "e.g. Side A: Scott / Side B: Tom"
+            },
+            {
+                "key": "field_recorded_by",
+                "label": "Recorded By",
+                "name": "recorded_by",
+                "type": "text",
+                "default_value": "Jon Heckman"
+            },
+            {
+                "key": "field_receiver",
+                "label": "Receiver",
+                "name": "receiver",
+                "type": "text",
+                "instructions": "Shortwave only. Make and model of receiving unit."
+            },
+            {
+                "key": "field_original_tape_deck",
+                "label": "Tape Deck (Recording)",
+                "name": "original_tape_deck",
+                "type": "text",
+                "instructions": "Make and model used for original recording"
+            },
+            {
+                "key": "field_tape",
+                "label": "Tape",
+                "name": "tape",
+                "type": "text",
+                "instructions": "e.g. (1) TDK D90 or No Brand/Bulk C-60 Tabs Out"
+            },
+            {
+                "key": "field_recording_location",
+                "label": "Recording Location",
+                "name": "recording_location",
+                "type": "text",
+                "instructions": "City, State where you were when you recorded this"
+            },
+            {
+                "key": "field_digitized_by",
+                "label": "Digitized By",
+                "name": "digitized_by",
+                "type": "text",
+                "default_value": "Jon Heckman, KB0RXF"
+            },
+            {
+                "key": "field_digitization_tape_deck",
+                "label": "Tape Deck (Digitization)",
+                "name": "digitization_tape_deck",
+                "type": "text",
+                "default_value": "Tascam Porta 03 Ministudio"
+            },
+            {
+                "key": "field_cd_burner",
+                "label": "CD Burner",
+                "name": "cd_burner",
+                "type": "text",
+                "default_value": "TDK DA-5900"
+            },
+            {
+                "key": "field_software",
+                "label": "Software",
+                "name": "software",
+                "type": "text",
+                "default_value": "Adobe Audition 3.0"
+            },
+            {
+                "key": "field_side_a",
+                "label": "Side A",
+                "name": "side_a",
+                "type": "textarea",
+                "instructions": "Full track listing. One entry per line. COMMERCIALS in caps.",
+                "rows": 10
+            },
+            {
+                "key": "field_side_b",
+                "label": "Side B",
+                "name": "side_b",
+                "type": "textarea",
+                "instructions": "Full track listing. One entry per line. COMMERCIALS in caps.",
+                "rows": 10
+            },
+            {
+                "key": "field_playback_status",
+                "label": "Playback Status",
+                "name": "playback_status",
+                "type": "select",
+                "choices": {
+                    "recovered": "Recovered",
+                    "partial": "Partial Recovery",
+                    "unrecoverable": "Unrecoverable",
+                    "pending": "Pending Digitization"
+                },
+                "default_value": "pending"
+            },
+            {
+                "key": "field_condition_notes",
+                "label": "Condition Notes",
+                "name": "condition_notes",
+                "type": "textarea",
+                "instructions": "Physical condition and playback observations",
+                "rows": 4
+            },
+            {
+                "key": "field_kb0rxf76_remembers",
+                "label": "KB0RXF76 Remembers",
+                "name": "kb0rxf76_remembers",
+                "type": "textarea",
+                "instructions": "Your words. Your memory. No rules.",
+                "rows": 8
+            },
+            {
+                "key": "field_sample_30sec",
+                "label": "30-Second Sample",
+                "name": "sample_30sec",
+                "type": "file",
+                "instructions": "Upload MP3 clip",
+                "mime_types": "mp3"
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "post"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "active": true
+    }
+]
