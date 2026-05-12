@@ -1,0 +1,794 @@
+[
+    {
+        "key": "group_69f8b3bc28381",
+        "title": "Media Meta",
+        "fields": [
+            {
+                "key": "field_69f8b3bc29eaa",
+                "label": "Tape ID",
+                "name": "tape_id",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Auto-assigned. e.g. T-0001",
+                "required": 1,
+                "conditional_logic": false,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_69f8b3bc29ee6",
+                "label": "Date Recorded",
+                "name": "date_recorded",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "e.g. 5-16-1992 or Spring 1989",
+                "required": false,
+                "conditional_logic": false,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_69f8b3bc29f20",
+                "label": "Time (UTC)",
+                "name": "time_utc",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Shortwave only. e.g. 0000-0800 UTC. Leave blank for FM\/AM.",
+                "required": false,
+                "conditional_logic": false,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_69f8b3bc29f5a",
+                "label": "Station",
+                "name": "station",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Call letters or Unknown",
+                "required": false,
+                "conditional_logic": false,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_69f8b3bc29f93",
+                "label": "Frequency",
+                "name": "frequency",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "e.g. 103.7 MHz FM or 4915 kHz",
+                "required": false,
+                "conditional_logic": false,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_69f8b3bc29fcd",
+                "label": "Station Location",
+                "name": "station_location",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "City, State or Unknown",
+                "required": false,
+                "conditional_logic": false,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_69fb97e39a74f",
+                "label": "Radio Show",
+                "name": "show_name",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "allow_in_bindings": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_69f8b3bc2a007",
+                "label": "Talent \/ DJ",
+                "name": "talent_dj",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "e.g. Side A: Scott \/ Side B: Tom",
+                "required": false,
+                "conditional_logic": false,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_69f8b3bc2a040",
+                "label": "Recorded By",
+                "name": "recorded_by",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": false,
+                "conditional_logic": false,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "Jon Heckman",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_69f8b3bc2a07a",
+                "label": "Receiver",
+                "name": "receiver",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Shortwave only. Make and model of receiving unit.",
+                "required": false,
+                "conditional_logic": false,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_69f8b3bc2a0b5",
+                "label": "Recorder",
+                "name": "original_recording_device",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Make and model used for original recording",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "allow_in_bindings": 1,
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_69f8b3bc2a0ee",
+                "label": "Media",
+                "name": "media_type",
+                "aria-label": "",
+                "type": "select",
+                "instructions": "e.g. (1) TDK D90 or No Brand\/Bulk C-60 Tabs Out",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "choices": {
+                    "cassette": "Cassette",
+                    "cd": "CD",
+                    "vhs": "VHS",
+                    "reel": "Reel to Reel"
+                },
+                "default_value": "cassette",
+                "return_format": "label",
+                "multiple": 0,
+                "allow_null": 0,
+                "allow_in_bindings": 0,
+                "ui": 0,
+                "ajax": 0,
+                "placeholder": "",
+                "create_options": 0,
+                "save_options": 0
+            },
+            {
+                "key": "field_69fb9e72f7512",
+                "label": "Media Description",
+                "name": "media_description",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "allow_in_bindings": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_69f8b3bc2a128",
+                "label": "Recording Location",
+                "name": "recording_location",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "City, State where you were when you recorded this",
+                "required": false,
+                "conditional_logic": false,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_69f8b3bc2a162",
+                "label": "Digitized By",
+                "name": "digitized_by",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": false,
+                "conditional_logic": false,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "Jon Heckman, KB0RXF",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_69f8b3bc2a19b",
+                "label": "Digitizer",
+                "name": "digitization_device",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "Tascam Porta 03 Ministudio",
+                "maxlength": "",
+                "allow_in_bindings": 1,
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_69f8b3bc2a1d5",
+                "label": "CD Burner",
+                "name": "cd_burner",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": false,
+                "conditional_logic": false,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "TDK DA-5900",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_69f8b3bc2a20e",
+                "label": "Software",
+                "name": "software",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": false,
+                "conditional_logic": false,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "Adobe Audition 3.0",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_69f8b3bc2a282",
+                "label": "Side(A\/B) or Disk# with Contents",
+                "name": "container",
+                "aria-label": "",
+                "type": "repeater",
+                "instructions": "Full track listing. One entry per line. COMMERCIALS in caps.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "row",
+                "pagination": 0,
+                "min": 0,
+                "max": 0,
+                "collapsed": "",
+                "button_label": "Add Row",
+                "rows_per_page": 20,
+                "sub_fields": [
+                    {
+                        "key": "field_69f8b3bc484d3",
+                        "label": "Side, Disk, Other",
+                        "name": "side_disk_other",
+                        "aria-label": "",
+                        "type": "select",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "side": "Side",
+                            "disk": "Disk",
+                            "vcr": "VCR Tape",
+                            "reel": "Reel to Reel"
+                        },
+                        "default_value": "side",
+                        "return_format": "label",
+                        "multiple": 0,
+                        "allow_null": 0,
+                        "allow_in_bindings": 0,
+                        "ui": 0,
+                        "ajax": 0,
+                        "placeholder": "",
+                        "create_options": 0,
+                        "save_options": 0,
+                        "parent_repeater": "field_69f8b3bc2a282"
+                    },
+                    {
+                        "key": "field_69f8b3bc4850e",
+                        "label": "A, B, #, None",
+                        "name": "a_b_n_none",
+                        "aria-label": "",
+                        "type": "select",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "choices": {
+                            "a": "A",
+                            "b": "B",
+                            "none": "None",
+                            "1": "1",
+                            "2": "2",
+                            "3": "3",
+                            "4": "4",
+                            "5": "5",
+                            "6": "6",
+                            "7": "7",
+                            "8": "8",
+                            "9": "9"
+                        },
+                        "default_value": "A",
+                        "return_format": "label",
+                        "multiple": 0,
+                        "allow_null": 0,
+                        "allow_in_bindings": 0,
+                        "ui": 0,
+                        "ajax": 0,
+                        "placeholder": "",
+                        "create_options": 0,
+                        "save_options": 0,
+                        "parent_repeater": "field_69f8b3bc2a282"
+                    },
+                    {
+                        "key": "field_69f8b3bc48549",
+                        "label": "Contents",
+                        "name": "contents",
+                        "aria-label": "",
+                        "type": "repeater",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "layout": "row",
+                        "pagination": 0,
+                        "min": 0,
+                        "max": 0,
+                        "collapsed": "",
+                        "button_label": "Add Row",
+                        "rows_per_page": 20,
+                        "sub_fields": [
+                            {
+                                "key": "field_69f8b40058238",
+                                "label": "Content Type",
+                                "name": "content_type",
+                                "aria-label": "",
+                                "type": "select",
+                                "instructions": "",
+                                "required": 0,
+                                "conditional_logic": 0,
+                                "wrapper": {
+                                    "width": "",
+                                    "class": "",
+                                    "id": ""
+                                },
+                                "choices": {
+                                    "song": "Song",
+                                    "commercial": "Commercial",
+                                    "segment": "Segment"
+                                },
+                                "default_value": "Song",
+                                "return_format": "label",
+                                "multiple": 0,
+                                "allow_null": 0,
+                                "allow_in_bindings": 0,
+                                "ui": 0,
+                                "ajax": 0,
+                                "placeholder": "",
+                                "create_options": 0,
+                                "save_options": 0,
+                                "parent_repeater": "field_69f8b3bc48549"
+                            },
+                            {
+                                "key": "field_69f8b47058239",
+                                "label": "Song and Artist",
+                                "name": "song_artist",
+                                "aria-label": "",
+                                "type": "repeater",
+                                "instructions": "",
+                                "required": 0,
+                                "conditional_logic": [
+                                    [
+                                        {
+                                            "field": "field_69f8b40058238",
+                                            "operator": "==",
+                                            "value": "song"
+                                        }
+                                    ]
+                                ],
+                                "wrapper": {
+                                    "width": "",
+                                    "class": "",
+                                    "id": ""
+                                },
+                                "layout": "table",
+                                "pagination": 0,
+                                "min": 0,
+                                "max": 0,
+                                "collapsed": "",
+                                "button_label": "Add Row",
+                                "rows_per_page": 20,
+                                "sub_fields": [
+                                    {
+                                        "key": "field_69f8b4ed5823a",
+                                        "label": "Song",
+                                        "name": "song",
+                                        "aria-label": "",
+                                        "type": "text",
+                                        "instructions": "",
+                                        "required": 0,
+                                        "conditional_logic": 0,
+                                        "wrapper": {
+                                            "width": "",
+                                            "class": "",
+                                            "id": ""
+                                        },
+                                        "default_value": "",
+                                        "maxlength": "",
+                                        "allow_in_bindings": 0,
+                                        "placeholder": "",
+                                        "prepend": "",
+                                        "append": "",
+                                        "parent_repeater": "field_69f8b47058239"
+                                    },
+                                    {
+                                        "key": "field_69f8b4fb5823b",
+                                        "label": "Artist",
+                                        "name": "artist",
+                                        "aria-label": "",
+                                        "type": "text",
+                                        "instructions": "",
+                                        "required": 0,
+                                        "conditional_logic": 0,
+                                        "wrapper": {
+                                            "width": "",
+                                            "class": "",
+                                            "id": ""
+                                        },
+                                        "default_value": "",
+                                        "maxlength": "",
+                                        "allow_in_bindings": 0,
+                                        "placeholder": "",
+                                        "prepend": "",
+                                        "append": "",
+                                        "parent_repeater": "field_69f8b47058239"
+                                    }
+                                ],
+                                "parent_repeater": "field_69f8b3bc48549"
+                            },
+                            {
+                                "key": "field_69f8b5305823c",
+                                "label": "Commercial",
+                                "name": "commercial",
+                                "aria-label": "",
+                                "type": "text",
+                                "instructions": "",
+                                "required": 0,
+                                "conditional_logic": [
+                                    [
+                                        {
+                                            "field": "field_69f8b40058238",
+                                            "operator": "==",
+                                            "value": "commercial"
+                                        }
+                                    ]
+                                ],
+                                "wrapper": {
+                                    "width": "",
+                                    "class": "",
+                                    "id": ""
+                                },
+                                "default_value": "",
+                                "maxlength": "",
+                                "allow_in_bindings": 0,
+                                "placeholder": "",
+                                "prepend": "",
+                                "append": "",
+                                "parent_repeater": "field_69f8b3bc48549"
+                            },
+                            {
+                                "key": "field_69f8b5625823d",
+                                "label": "Segment Type",
+                                "name": "segment_type",
+                                "aria-label": "",
+                                "type": "select",
+                                "instructions": "",
+                                "required": 0,
+                                "conditional_logic": [
+                                    [
+                                        {
+                                            "field": "field_69f8b40058238",
+                                            "operator": "==",
+                                            "value": "segment"
+                                        }
+                                    ]
+                                ],
+                                "wrapper": {
+                                    "width": "",
+                                    "class": "",
+                                    "id": ""
+                                },
+                                "choices": {
+                                    "traffic": "TRAFFIC",
+                                    "weather": "WEATHER",
+                                    "sports": "SPORTS",
+                                    "news": "NEWS",
+                                    "bumper": "BUMPER"
+                                },
+                                "default_value": "BUMPER",
+                                "return_format": "label",
+                                "multiple": 0,
+                                "allow_null": 0,
+                                "allow_in_bindings": 0,
+                                "ui": 0,
+                                "ajax": 0,
+                                "placeholder": "",
+                                "create_options": 0,
+                                "save_options": 0,
+                                "parent_repeater": "field_69f8b3bc48549"
+                            }
+                        ],
+                        "parent_repeater": "field_69f8b3bc2a282"
+                    }
+                ]
+            },
+            {
+                "key": "field_69f8b3bc2a2f5",
+                "label": "Playback Status",
+                "name": "playback_status",
+                "aria-label": "",
+                "type": "select",
+                "instructions": "",
+                "required": false,
+                "conditional_logic": false,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "choices": {
+                    "recovered": "Recovered",
+                    "partial": "Partial Recovery",
+                    "unrecoverable": "Unrecoverable",
+                    "pending": "Pending Digitization"
+                },
+                "default_value": "pending",
+                "multiple": 0,
+                "allow_null": 0,
+                "ui": 0,
+                "ajax": 0,
+                "placeholder": "",
+                "return_format": "value",
+                "create_options": 0,
+                "save_options": 0
+            },
+            {
+                "key": "field_69f8b3bc2a32e",
+                "label": "Condition Notes",
+                "name": "condition_notes",
+                "aria-label": "",
+                "type": "textarea",
+                "instructions": "Physical condition and playback observations",
+                "required": false,
+                "conditional_logic": false,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "rows": 4,
+                "default_value": "",
+                "new_lines": "",
+                "maxlength": "",
+                "placeholder": ""
+            },
+            {
+                "key": "field_69f8b3bc2a368",
+                "label": "KB0RXF76 Remembers",
+                "name": "kb0rxf76_remembers",
+                "aria-label": "",
+                "type": "textarea",
+                "instructions": "Your words. Your memory. No rules.",
+                "required": false,
+                "conditional_logic": false,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "rows": 8,
+                "default_value": "",
+                "new_lines": "",
+                "maxlength": "",
+                "placeholder": ""
+            },
+            {
+                "key": "field_69f8b3bc2a3a2",
+                "label": "30-Second Sample",
+                "name": "sample_30sec",
+                "aria-label": "",
+                "type": "file",
+                "instructions": "Upload MP3 clip",
+                "required": false,
+                "conditional_logic": false,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "mime_types": "mp3",
+                "return_format": "array",
+                "library": "all",
+                "min_size": 0,
+                "max_size": 0
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "post"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "",
+        "show_in_rest": 0,
+        "display_title": "",
+        "allow_ai_access": false,
+        "ai_description": ""
+    }
+]
