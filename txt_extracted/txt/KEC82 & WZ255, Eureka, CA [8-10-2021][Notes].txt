@@ -1,0 +1,14 @@
+TRACK 01
+KEC82, Eureka/Mt. Pierce, CA, 162.400 MHz
+8-10-2021, 5 p.m. PDT hour
+Automated
+
+TRACK 02
+WZ255, Eureka/Horse Mtn., CA, 162.450 MHz
+8-10-2021, 5 p.m. PDT hour
+Automated
+
+Recorded By:  Jon Heckman, KB0RXF
+Receiver:  Uniden Bearcat Trunk Tracker
+Recorder:  Marantz PMD 561
+Recording Location:  Arcata, CA

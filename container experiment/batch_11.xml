@@ -72,6 +72,14 @@
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0501]]></wp:meta_value>
 		</wp:postmeta>
@@ -257,7 +265,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[_source_txt_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[txt/ZZZ Radio For Peace International, Ciudad Col�n, Costa Rica [8-23-1994, UTC Date][Notes].txt]]></wp:meta_value>
+		<wp:meta_value><![CDATA[txt/ZZZ Radio For Peace International, Ciudad Col¢n, Costa Rica [8-23-1994, UTC Date][Notes].txt]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[_source_txt_full]]></wp:meta_key>
@@ -277,8 +285,8 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		</wp:postmeta>
 		</item>
 		<item>
-		<title><![CDATA[T-0502 | Radio Newyork International via WWCR | 1-11-1993, UTC Date]]></title>
-		<link>https://kb0rxf.org/t-0502-radio-newyork-international-via-wwcr-1-11-1993-utc-date/</link>
+		<title><![CDATA[T-0502 | Radio Newyork International via WWCR | 10-12-1992, UTC Date]]></title>
+		<link>https://kb0rxf.org/t-0502-radio-newyork-international-via-wwcr-10-12-1992-utc-date/</link>
 		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[dejunai]]></dc:creator>
 		<guid isPermaLink="false">https://kb0rxf.org/?p=2501</guid>
@@ -292,7 +300,7 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[t-0502-radio-newyork-international-via-wwcr-1-11-1993-utc-date]]></wp:post_name>
+		<wp:post_name><![CDATA[t-0502-radio-newyork-international-via-wwcr-10-12-1992-utc-date]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -300,696 +308,17 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0502]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29eaa]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[date_recorded]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1-11-1993, UTC Date]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_date_recorded]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29ee6]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[time_utc]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_time_utc]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29f20]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[station]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Radio Newyork International via WWCR]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_station]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29f5a]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[frequency]]></wp:meta_key>
-		<wp:meta_value><![CDATA[7435 kHz]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_frequency]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29f93]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[station_location]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Nashville, TN]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_station_location]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29fcd]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[show_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Crossband]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_show_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69fb97e39a74f]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[talent_dj]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Big Steve Cole / Allan Weiner / John Lightning & The 11L Pirate Crew]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_talent_dj]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a007]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[recorded_by]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Jon Heckman]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_recorded_by]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a040]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[receiver]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Hallicrafters S-120, with long wire antenna of unknown length]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_receiver]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a07a]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[original_recording_device]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Realistic CTR-41]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_original_recording_device]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a0b5]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[media_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[cassette]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_media_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a0ee]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[media_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[(1) Target C-90 and (1) KMC C-90]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_media_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69fb9e72f7512]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[recording_location]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Lincoln, NE]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_recording_location]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a128]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[digitized_by]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Jon Heckman, KB0RXF]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_digitized_by]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a162]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[digitization_device]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Marantz PMD 561]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_digitization_device]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a19b]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[cd_burner]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_cd_burner]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a1d5]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[software]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Adobe Audition 3.0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_software]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a20e]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[container]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_container]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a282]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[playback_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[pending]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_playback_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a2f5]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[condition_notes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_condition_notes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a32e]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[kb0rxf76_remembers]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_kb0rxf76_remembers]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a368]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[sample_30sec]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_sample_30sec]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a3a2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_source_txt_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[txt/ZZZ Radio Newyork International via WWCR, Nashville, TN [1-11-1993, UTC Date][Notes].txt]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_source_txt_full]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Radio Newyork International via WWCR, Nashville, TN, 7435 kHz
-1-11-1993, UTC Date
-Big Steve Cole:  Crossband/Allan Weiner/John Lightning & The 11L Pirate Crew
-
-Recorded By:  Jon Heckman
-Receiver:  Hallicrafters S-120, with long wire antenna of unknown length
-Tape Deck:  Realistic CTR-41
-Tapes:  (1) Target C-90 and (1) KMC C-90
-Recording Location:  Lincoln, NE
-
-Digitized By:  Jon Heckman, KB0RXF
-Recorder:  Marantz PMD 561
-Software:  Adobe Audition 3.0]]></wp:meta_value>
-		</wp:postmeta>
-		</item>
-		<item>
-		<title><![CDATA[T-0503 | Radio Newyork International via WWCR | 1-18-1993, UTC Date]]></title>
-		<link>https://kb0rxf.org/t-0503-radio-newyork-international-via-wwcr-1-18-1993-utc-date/</link>
-		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[dejunai]]></dc:creator>
-		<guid isPermaLink="false">https://kb0rxf.org/?p=2502</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2502</wp:post_id>
-		<wp:post_date><![CDATA[2026-05-06 00:00:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-05-06 00:00:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[t-0503-radio-newyork-international-via-wwcr-1-18-1993-utc-date]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[T-0503]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29eaa]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[date_recorded]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1-18-1993, UTC Date]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_date_recorded]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29ee6]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[time_utc]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_time_utc]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29f20]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[station]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Radio Newyork International via WWCR]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_station]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29f5a]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[frequency]]></wp:meta_key>
-		<wp:meta_value><![CDATA[7435 kHz]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_frequency]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29f93]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[station_location]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Nashville, TN]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_station_location]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29fcd]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[show_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Crossband]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_show_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69fb97e39a74f]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[talent_dj]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Big Steve Cole / Pirate Joe, With Pre-Recorded Segment / Allan Weiner & John Lightning, With Pre-Recorded Segment]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_talent_dj]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a007]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[recorded_by]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Jon Heckman]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_recorded_by]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a040]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[receiver]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Hallicrafters S-120, with long wire antenna of unknown length]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_receiver]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a07a]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[original_recording_device]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Realistic CTR-41]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_original_recording_device]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a0b5]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[media_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[cassette]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_media_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a0ee]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[media_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[(2) Target C-90]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_media_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69fb9e72f7512]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[recording_location]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Lincoln, NE]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_recording_location]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a128]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[digitized_by]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Jon Heckman, KB0RXF]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_digitized_by]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a162]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[digitization_device]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Marantz PMD 561]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_digitization_device]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a19b]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[cd_burner]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_cd_burner]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a1d5]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[software]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Adobe Audition 3.0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_software]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a20e]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[container]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_container]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a282]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[playback_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[pending]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_playback_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a2f5]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[condition_notes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_condition_notes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a32e]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[kb0rxf76_remembers]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_kb0rxf76_remembers]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a368]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[sample_30sec]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_sample_30sec]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a3a2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_source_txt_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[txt/ZZZ Radio Newyork International via WWCR, Nashville, TN [1-18-1993, UTC Date][Notes].txt]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_source_txt_full]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Radio Newyork International via WWCR, Nashville, TN, 7435 kHz
-1-18-1993, UTC Date
-Big Steve Cole:  Crossband/Pirate Joe, With Pre-Recorded Segment/Allan Weiner & John Lightning, With Pre-Recorded Segment
-
-Recorded By:  Jon Heckman
-Receiver:  Hallicrafters S-120, with long wire antenna of unknown length
-Tape Deck:  Realistic CTR-41
-Tapes:  (2) Target C-90
-Recording Location:  Lincoln, NE
-
-Digitized By:  Jon Heckman, KB0RXF
-Recorder:  Marantz PMD 561
-Software:  Adobe Audition 3.0]]></wp:meta_value>
-		</wp:postmeta>
-		</item>
-		<item>
-		<title><![CDATA[T-0504 | Radio Newyork International via WWCR | 1-25-1993, UTC Date]]></title>
-		<link>https://kb0rxf.org/t-0504-radio-newyork-international-via-wwcr-1-25-1993-utc-date/</link>
-		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[dejunai]]></dc:creator>
-		<guid isPermaLink="false">https://kb0rxf.org/?p=2503</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2503</wp:post_id>
-		<wp:post_date><![CDATA[2026-05-06 00:00:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-05-06 00:00:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[t-0504-radio-newyork-international-via-wwcr-1-25-1993-utc-date]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[T-0504]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29eaa]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[date_recorded]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1-25-1993, UTC Date]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_date_recorded]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29ee6]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[time_utc]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_time_utc]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29f20]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[station]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Radio Newyork International via WWCR]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_station]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29f5a]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[frequency]]></wp:meta_key>
-		<wp:meta_value><![CDATA[7435 kHz]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_frequency]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29f93]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[station_location]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Nashville, TN]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_station_location]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29fcd]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[show_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_show_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69fb97e39a74f]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[talent_dj]]></wp:meta_key>
-		<wp:meta_value><![CDATA[John Lightning & The 11L Pirate Crew]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_talent_dj]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a007]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[recorded_by]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Jon Heckman]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_recorded_by]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a040]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[receiver]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Hallicrafters S-120, with long wire antenna of unknown length]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_receiver]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a07a]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[original_recording_device]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Realistic CTR-41]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_original_recording_device]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a0b5]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[media_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[cassette]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_media_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a0ee]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[media_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[(2) Gemini MP90]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_media_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69fb9e72f7512]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[recording_location]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Lincoln, NE]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_recording_location]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a128]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[digitized_by]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Jon Heckman, KB0RXF]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_digitized_by]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a162]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[digitization_device]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Marantz PMD 561]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_digitization_device]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a19b]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[cd_burner]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_cd_burner]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a1d5]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[software]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Adobe Audition 3.0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_software]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a20e]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[container]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_container]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a282]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[playback_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[pending]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_playback_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a2f5]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[condition_notes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_condition_notes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a32e]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[kb0rxf76_remembers]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_kb0rxf76_remembers]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a368]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[sample_30sec]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_sample_30sec]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a3a2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_source_txt_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[txt/ZZZ Radio Newyork International via WWCR, Nashville, TN [1-25-1993, UTC Date][Notes].txt]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_source_txt_full]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Radio Newyork International via WWCR, Nashville, TN, 7435 kHz
-1-25-1993, UTC Date
-John Lightning & The 11L Pirate Crew
-
-Recorded By:  Jon Heckman
-Receiver:  Hallicrafters S-120, with long wire antenna of unknown length
-Tape Deck:  Realistic CTR-41
-Tapes:  (2) Gemini MP90
-Recording Location:  Lincoln, NE
-
-Digitized By:  Jon Heckman, KB0RXF
-Recorder:  Marantz PMD 561
-Software:  Adobe Audition 3.0]]></wp:meta_value>
-		</wp:postmeta>
-		</item>
-		<item>
-		<title><![CDATA[T-0505 | Radio Newyork International via WWCR | 10-12-1992, UTC Date]]></title>
-		<link>https://kb0rxf.org/t-0505-radio-newyork-international-via-wwcr-10-12-1992-utc-date/</link>
-		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[dejunai]]></dc:creator>
-		<guid isPermaLink="false">https://kb0rxf.org/?p=2504</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2504</wp:post_id>
-		<wp:post_date><![CDATA[2026-05-06 00:00:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-05-06 00:00:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[t-0505-radio-newyork-international-via-wwcr-10-12-1992-utc-date]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[T-0505]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
@@ -1193,22 +522,22 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		</wp:postmeta>
 		</item>
 		<item>
-		<title><![CDATA[T-0506 | Radio Newyork International via WWCR | 10-19-1992, UTC Date]]></title>
-		<link>https://kb0rxf.org/t-0506-radio-newyork-international-via-wwcr-10-19-1992-utc-date/</link>
+		<title><![CDATA[T-0503 | Radio Newyork International via WWCR | 10-19-1992, UTC Date]]></title>
+		<link>https://kb0rxf.org/t-0503-radio-newyork-international-via-wwcr-10-19-1992-utc-date/</link>
 		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[dejunai]]></dc:creator>
-		<guid isPermaLink="false">https://kb0rxf.org/?p=2505</guid>
+		<guid isPermaLink="false">https://kb0rxf.org/?p=2502</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2505</wp:post_id>
+		<wp:post_id>2502</wp:post_id>
 		<wp:post_date><![CDATA[2026-05-06 00:00:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2026-05-06 00:00:00]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[t-0506-radio-newyork-international-via-wwcr-10-19-1992-utc-date]]></wp:post_name>
+		<wp:post_name><![CDATA[t-0503-radio-newyork-international-via-wwcr-10-19-1992-utc-date]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -1217,8 +546,16 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[T-0506]]></wp:meta_value>
+		<wp:meta_value><![CDATA[T-0503]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
@@ -1422,22 +759,22 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		</wp:postmeta>
 		</item>
 		<item>
-		<title><![CDATA[T-0507 | Radio Newyork International via WWCR | 10-26-1992, UTC Date]]></title>
-		<link>https://kb0rxf.org/t-0507-radio-newyork-international-via-wwcr-10-26-1992-utc-date/</link>
+		<title><![CDATA[T-0504 | Radio Newyork International via WWCR | 10-26-1992, UTC Date]]></title>
+		<link>https://kb0rxf.org/t-0504-radio-newyork-international-via-wwcr-10-26-1992-utc-date/</link>
 		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[dejunai]]></dc:creator>
-		<guid isPermaLink="false">https://kb0rxf.org/?p=2506</guid>
+		<guid isPermaLink="false">https://kb0rxf.org/?p=2503</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2506</wp:post_id>
+		<wp:post_id>2503</wp:post_id>
 		<wp:post_date><![CDATA[2026-05-06 00:00:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2026-05-06 00:00:00]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[t-0507-radio-newyork-international-via-wwcr-10-26-1992-utc-date]]></wp:post_name>
+		<wp:post_name><![CDATA[t-0504-radio-newyork-international-via-wwcr-10-26-1992-utc-date]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -1446,8 +783,16 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[T-0507]]></wp:meta_value>
+		<wp:meta_value><![CDATA[T-0504]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
@@ -1651,22 +996,22 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		</wp:postmeta>
 		</item>
 		<item>
-		<title><![CDATA[T-0508 | Radio Newyork International via WWCR | 10-5-1992, UTC Date]]></title>
-		<link>https://kb0rxf.org/t-0508-radio-newyork-international-via-wwcr-10-5-1992-utc-date/</link>
+		<title><![CDATA[T-0505 | Radio Newyork International via WWCR | 10-5-1992, UTC Date]]></title>
+		<link>https://kb0rxf.org/t-0505-radio-newyork-international-via-wwcr-10-5-1992-utc-date/</link>
 		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[dejunai]]></dc:creator>
-		<guid isPermaLink="false">https://kb0rxf.org/?p=2507</guid>
+		<guid isPermaLink="false">https://kb0rxf.org/?p=2504</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2507</wp:post_id>
+		<wp:post_id>2504</wp:post_id>
 		<wp:post_date><![CDATA[2026-05-06 00:00:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2026-05-06 00:00:00]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[t-0508-radio-newyork-international-via-wwcr-10-5-1992-utc-date]]></wp:post_name>
+		<wp:post_name><![CDATA[t-0505-radio-newyork-international-via-wwcr-10-5-1992-utc-date]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -1675,8 +1020,16 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[T-0508]]></wp:meta_value>
+		<wp:meta_value><![CDATA[T-0505]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
@@ -1880,22 +1233,22 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		</wp:postmeta>
 		</item>
 		<item>
-		<title><![CDATA[T-0509 | Radio Newyork International via WWCR | 11-16-1992, UTC Date]]></title>
-		<link>https://kb0rxf.org/t-0509-radio-newyork-international-via-wwcr-11-16-1992-utc-date/</link>
+		<title><![CDATA[T-0506 | Radio Newyork International via WWCR | 1-11-1993, UTC Date]]></title>
+		<link>https://kb0rxf.org/t-0506-radio-newyork-international-via-wwcr-1-11-1993-utc-date/</link>
 		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[dejunai]]></dc:creator>
-		<guid isPermaLink="false">https://kb0rxf.org/?p=2508</guid>
+		<guid isPermaLink="false">https://kb0rxf.org/?p=2505</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2508</wp:post_id>
+		<wp:post_id>2505</wp:post_id>
 		<wp:post_date><![CDATA[2026-05-06 00:00:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2026-05-06 00:00:00]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[t-0509-radio-newyork-international-via-wwcr-11-16-1992-utc-date]]></wp:post_name>
+		<wp:post_name><![CDATA[t-0506-radio-newyork-international-via-wwcr-1-11-1993-utc-date]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -1904,8 +1257,253 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[T-0509]]></wp:meta_value>
+		<wp:meta_value><![CDATA[T-0506]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29eaa]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[date_recorded]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1-11-1993, UTC Date]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_date_recorded]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29ee6]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[time_utc]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_time_utc]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29f20]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[station]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Radio Newyork International via WWCR]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_station]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29f5a]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[frequency]]></wp:meta_key>
+		<wp:meta_value><![CDATA[7435 kHz]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_frequency]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29f93]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[station_location]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Nashville, TN]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_station_location]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29fcd]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[show_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Crossband]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_show_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69fb97e39a74f]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[talent_dj]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Big Steve Cole / Allan Weiner / John Lightning & The 11L Pirate Crew]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_talent_dj]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a007]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recorded_by]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Jon Heckman]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recorded_by]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a040]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[receiver]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Hallicrafters S-120, with long wire antenna of unknown length]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_receiver]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a07a]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[original_recording_device]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Realistic CTR-41]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_original_recording_device]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a0b5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[media_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[cassette]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_media_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a0ee]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[media_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[(1) Target C-90 and (1) KMC C-90]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_media_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69fb9e72f7512]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_location]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Lincoln, NE]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_location]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a128]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[digitized_by]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Jon Heckman, KB0RXF]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_digitized_by]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a162]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[digitization_device]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Marantz PMD 561]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_digitization_device]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a19b]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[cd_burner]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_cd_burner]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a1d5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[software]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Adobe Audition 3.0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_software]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a20e]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[container]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_container]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a282]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[playback_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[pending]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_playback_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a2f5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[condition_notes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_condition_notes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a32e]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[kb0rxf76_remembers]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_kb0rxf76_remembers]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a368]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[sample_30sec]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_sample_30sec]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a3a2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_source_txt_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[txt/ZZZ Radio Newyork International via WWCR, Nashville, TN [1-11-1993, UTC Date][Notes].txt]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_source_txt_full]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Radio Newyork International via WWCR, Nashville, TN, 7435 kHz
+1-11-1993, UTC Date
+Big Steve Cole:  Crossband/Allan Weiner/John Lightning & The 11L Pirate Crew
+
+Recorded By:  Jon Heckman
+Receiver:  Hallicrafters S-120, with long wire antenna of unknown length
+Tape Deck:  Realistic CTR-41
+Tapes:  (1) Target C-90 and (1) KMC C-90
+Recording Location:  Lincoln, NE
+
+Digitized By:  Jon Heckman, KB0RXF
+Recorder:  Marantz PMD 561
+Software:  Adobe Audition 3.0]]></wp:meta_value>
+		</wp:postmeta>
+		</item>
+		<item>
+		<title><![CDATA[T-0507 | Radio Newyork International via WWCR | 11-16-1992, UTC Date]]></title>
+		<link>https://kb0rxf.org/t-0507-radio-newyork-international-via-wwcr-11-16-1992-utc-date/</link>
+		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[dejunai]]></dc:creator>
+		<guid isPermaLink="false">https://kb0rxf.org/?p=2506</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2506</wp:post_id>
+		<wp:post_date><![CDATA[2026-05-06 00:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-05-06 00:00:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[t-0507-radio-newyork-international-via-wwcr-11-16-1992-utc-date]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[T-0507]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
@@ -2109,22 +1707,22 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		</wp:postmeta>
 		</item>
 		<item>
-		<title><![CDATA[T-0510 | Radio Newyork International via WWCR | 11-2-1992, UTC Date]]></title>
-		<link>https://kb0rxf.org/t-0510-radio-newyork-international-via-wwcr-11-2-1992-utc-date/</link>
+		<title><![CDATA[T-0508 | Radio Newyork International via WWCR | 11-2-1992, UTC Date]]></title>
+		<link>https://kb0rxf.org/t-0508-radio-newyork-international-via-wwcr-11-2-1992-utc-date/</link>
 		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[dejunai]]></dc:creator>
-		<guid isPermaLink="false">https://kb0rxf.org/?p=2509</guid>
+		<guid isPermaLink="false">https://kb0rxf.org/?p=2507</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2509</wp:post_id>
+		<wp:post_id>2507</wp:post_id>
 		<wp:post_date><![CDATA[2026-05-06 00:00:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2026-05-06 00:00:00]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[t-0510-radio-newyork-international-via-wwcr-11-2-1992-utc-date]]></wp:post_name>
+		<wp:post_name><![CDATA[t-0508-radio-newyork-international-via-wwcr-11-2-1992-utc-date]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -2133,8 +1731,16 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[T-0510]]></wp:meta_value>
+		<wp:meta_value><![CDATA[T-0508]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
@@ -2338,22 +1944,22 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		</wp:postmeta>
 		</item>
 		<item>
-		<title><![CDATA[T-0511 | Radio Newyork International via WWCR | 11-23-1992, UTC Date]]></title>
-		<link>https://kb0rxf.org/t-0511-radio-newyork-international-via-wwcr-11-23-1992-utc-date/</link>
+		<title><![CDATA[T-0509 | Radio Newyork International via WWCR | 11-23-1992, UTC Date]]></title>
+		<link>https://kb0rxf.org/t-0509-radio-newyork-international-via-wwcr-11-23-1992-utc-date/</link>
 		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[dejunai]]></dc:creator>
-		<guid isPermaLink="false">https://kb0rxf.org/?p=2510</guid>
+		<guid isPermaLink="false">https://kb0rxf.org/?p=2508</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2510</wp:post_id>
+		<wp:post_id>2508</wp:post_id>
 		<wp:post_date><![CDATA[2026-05-06 00:00:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2026-05-06 00:00:00]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[t-0511-radio-newyork-international-via-wwcr-11-23-1992-utc-date]]></wp:post_name>
+		<wp:post_name><![CDATA[t-0509-radio-newyork-international-via-wwcr-11-23-1992-utc-date]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -2362,8 +1968,16 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[T-0511]]></wp:meta_value>
+		<wp:meta_value><![CDATA[T-0509]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
@@ -2567,22 +2181,22 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		</wp:postmeta>
 		</item>
 		<item>
-		<title><![CDATA[T-0512 | Radio Newyork International via WWCR | 11-9-1992, UTC Date]]></title>
-		<link>https://kb0rxf.org/t-0512-radio-newyork-international-via-wwcr-11-9-1992-utc-date/</link>
+		<title><![CDATA[T-0510 | Radio Newyork International via WWCR | 1-18-1993, UTC Date]]></title>
+		<link>https://kb0rxf.org/t-0510-radio-newyork-international-via-wwcr-1-18-1993-utc-date/</link>
 		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[dejunai]]></dc:creator>
-		<guid isPermaLink="false">https://kb0rxf.org/?p=2511</guid>
+		<guid isPermaLink="false">https://kb0rxf.org/?p=2509</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2511</wp:post_id>
+		<wp:post_id>2509</wp:post_id>
 		<wp:post_date><![CDATA[2026-05-06 00:00:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2026-05-06 00:00:00]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[t-0512-radio-newyork-international-via-wwcr-11-9-1992-utc-date]]></wp:post_name>
+		<wp:post_name><![CDATA[t-0510-radio-newyork-international-via-wwcr-1-18-1993-utc-date]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -2591,8 +2205,253 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[T-0512]]></wp:meta_value>
+		<wp:meta_value><![CDATA[T-0510]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29eaa]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[date_recorded]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1-18-1993, UTC Date]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_date_recorded]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29ee6]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[time_utc]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_time_utc]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29f20]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[station]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Radio Newyork International via WWCR]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_station]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29f5a]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[frequency]]></wp:meta_key>
+		<wp:meta_value><![CDATA[7435 kHz]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_frequency]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29f93]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[station_location]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Nashville, TN]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_station_location]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29fcd]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[show_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Crossband]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_show_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69fb97e39a74f]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[talent_dj]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Big Steve Cole / Pirate Joe, With Pre-Recorded Segment / Allan Weiner & John Lightning, With Pre-Recorded Segment]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_talent_dj]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a007]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recorded_by]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Jon Heckman]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recorded_by]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a040]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[receiver]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Hallicrafters S-120, with long wire antenna of unknown length]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_receiver]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a07a]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[original_recording_device]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Realistic CTR-41]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_original_recording_device]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a0b5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[media_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[cassette]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_media_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a0ee]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[media_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[(2) Target C-90]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_media_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69fb9e72f7512]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_location]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Lincoln, NE]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_location]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a128]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[digitized_by]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Jon Heckman, KB0RXF]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_digitized_by]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a162]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[digitization_device]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Marantz PMD 561]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_digitization_device]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a19b]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[cd_burner]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_cd_burner]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a1d5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[software]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Adobe Audition 3.0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_software]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a20e]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[container]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_container]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a282]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[playback_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[pending]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_playback_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a2f5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[condition_notes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_condition_notes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a32e]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[kb0rxf76_remembers]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_kb0rxf76_remembers]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a368]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[sample_30sec]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_sample_30sec]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a3a2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_source_txt_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[txt/ZZZ Radio Newyork International via WWCR, Nashville, TN [1-18-1993, UTC Date][Notes].txt]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_source_txt_full]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Radio Newyork International via WWCR, Nashville, TN, 7435 kHz
+1-18-1993, UTC Date
+Big Steve Cole:  Crossband/Pirate Joe, With Pre-Recorded Segment/Allan Weiner & John Lightning, With Pre-Recorded Segment
+
+Recorded By:  Jon Heckman
+Receiver:  Hallicrafters S-120, with long wire antenna of unknown length
+Tape Deck:  Realistic CTR-41
+Tapes:  (2) Target C-90
+Recording Location:  Lincoln, NE
+
+Digitized By:  Jon Heckman, KB0RXF
+Recorder:  Marantz PMD 561
+Software:  Adobe Audition 3.0]]></wp:meta_value>
+		</wp:postmeta>
+		</item>
+		<item>
+		<title><![CDATA[T-0511 | Radio Newyork International via WWCR | 11-9-1992, UTC Date]]></title>
+		<link>https://kb0rxf.org/t-0511-radio-newyork-international-via-wwcr-11-9-1992-utc-date/</link>
+		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[dejunai]]></dc:creator>
+		<guid isPermaLink="false">https://kb0rxf.org/?p=2510</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2510</wp:post_id>
+		<wp:post_date><![CDATA[2026-05-06 00:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-05-06 00:00:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[t-0511-radio-newyork-international-via-wwcr-11-9-1992-utc-date]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[T-0511]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
@@ -2796,22 +2655,22 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		</wp:postmeta>
 		</item>
 		<item>
-		<title><![CDATA[T-0513 | Radio Newyork International via WWCR | 12-14-1992, UTC Date]]></title>
-		<link>https://kb0rxf.org/t-0513-radio-newyork-international-via-wwcr-12-14-1992-utc-date/</link>
+		<title><![CDATA[T-0512 | Radio Newyork International via WWCR | 12-14-1992, UTC Date]]></title>
+		<link>https://kb0rxf.org/t-0512-radio-newyork-international-via-wwcr-12-14-1992-utc-date/</link>
 		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[dejunai]]></dc:creator>
-		<guid isPermaLink="false">https://kb0rxf.org/?p=2512</guid>
+		<guid isPermaLink="false">https://kb0rxf.org/?p=2511</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2512</wp:post_id>
+		<wp:post_id>2511</wp:post_id>
 		<wp:post_date><![CDATA[2026-05-06 00:00:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2026-05-06 00:00:00]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[t-0513-radio-newyork-international-via-wwcr-12-14-1992-utc-date]]></wp:post_name>
+		<wp:post_name><![CDATA[t-0512-radio-newyork-international-via-wwcr-12-14-1992-utc-date]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -2820,8 +2679,16 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[T-0513]]></wp:meta_value>
+		<wp:meta_value><![CDATA[T-0512]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
@@ -3025,22 +2892,22 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		</wp:postmeta>
 		</item>
 		<item>
-		<title><![CDATA[T-0514 | Radio Newyork International via WWCR | 12-21-1992, UTC Date]]></title>
-		<link>https://kb0rxf.org/t-0514-radio-newyork-international-via-wwcr-12-21-1992-utc-date/</link>
+		<title><![CDATA[T-0513 | Radio Newyork International via WWCR | 12-21-1992, UTC Date]]></title>
+		<link>https://kb0rxf.org/t-0513-radio-newyork-international-via-wwcr-12-21-1992-utc-date/</link>
 		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[dejunai]]></dc:creator>
-		<guid isPermaLink="false">https://kb0rxf.org/?p=2513</guid>
+		<guid isPermaLink="false">https://kb0rxf.org/?p=2512</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2513</wp:post_id>
+		<wp:post_id>2512</wp:post_id>
 		<wp:post_date><![CDATA[2026-05-06 00:00:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2026-05-06 00:00:00]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[t-0514-radio-newyork-international-via-wwcr-12-21-1992-utc-date]]></wp:post_name>
+		<wp:post_name><![CDATA[t-0513-radio-newyork-international-via-wwcr-12-21-1992-utc-date]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -3049,8 +2916,16 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[T-0514]]></wp:meta_value>
+		<wp:meta_value><![CDATA[T-0513]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
@@ -3254,6 +3129,243 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		</wp:postmeta>
 		</item>
 		<item>
+		<title><![CDATA[T-0514 | Radio Newyork International via WWCR | 1-25-1993, UTC Date]]></title>
+		<link>https://kb0rxf.org/t-0514-radio-newyork-international-via-wwcr-1-25-1993-utc-date/</link>
+		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[dejunai]]></dc:creator>
+		<guid isPermaLink="false">https://kb0rxf.org/?p=2513</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2513</wp:post_id>
+		<wp:post_date><![CDATA[2026-05-06 00:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-05-06 00:00:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[t-0514-radio-newyork-international-via-wwcr-1-25-1993-utc-date]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[T-0514]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29eaa]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[date_recorded]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1-25-1993, UTC Date]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_date_recorded]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29ee6]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[time_utc]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_time_utc]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29f20]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[station]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Radio Newyork International via WWCR]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_station]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29f5a]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[frequency]]></wp:meta_key>
+		<wp:meta_value><![CDATA[7435 kHz]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_frequency]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29f93]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[station_location]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Nashville, TN]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_station_location]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29fcd]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[show_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_show_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69fb97e39a74f]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[talent_dj]]></wp:meta_key>
+		<wp:meta_value><![CDATA[John Lightning & The 11L Pirate Crew]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_talent_dj]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a007]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recorded_by]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Jon Heckman]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recorded_by]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a040]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[receiver]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Hallicrafters S-120, with long wire antenna of unknown length]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_receiver]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a07a]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[original_recording_device]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Realistic CTR-41]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_original_recording_device]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a0b5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[media_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[cassette]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_media_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a0ee]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[media_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[(2) Gemini MP90]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_media_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69fb9e72f7512]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_location]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Lincoln, NE]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_location]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a128]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[digitized_by]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Jon Heckman, KB0RXF]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_digitized_by]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a162]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[digitization_device]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Marantz PMD 561]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_digitization_device]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a19b]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[cd_burner]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_cd_burner]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a1d5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[software]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Adobe Audition 3.0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_software]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a20e]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[container]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_container]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a282]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[playback_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[pending]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_playback_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a2f5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[condition_notes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_condition_notes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a32e]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[kb0rxf76_remembers]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_kb0rxf76_remembers]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a368]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[sample_30sec]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_sample_30sec]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a3a2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_source_txt_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[txt/ZZZ Radio Newyork International via WWCR, Nashville, TN [1-25-1993, UTC Date][Notes].txt]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_source_txt_full]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Radio Newyork International via WWCR, Nashville, TN, 7435 kHz
+1-25-1993, UTC Date
+John Lightning & The 11L Pirate Crew
+
+Recorded By:  Jon Heckman
+Receiver:  Hallicrafters S-120, with long wire antenna of unknown length
+Tape Deck:  Realistic CTR-41
+Tapes:  (2) Gemini MP90
+Recording Location:  Lincoln, NE
+
+Digitized By:  Jon Heckman, KB0RXF
+Recorder:  Marantz PMD 561
+Software:  Adobe Audition 3.0]]></wp:meta_value>
+		</wp:postmeta>
+		</item>
+		<item>
 		<title><![CDATA[T-0515 | Radio Newyork International via WWCR | 2-1-1993, UTC Date]]></title>
 		<link>https://kb0rxf.org/t-0515-radio-newyork-international-via-wwcr-2-1-1993-utc-date/</link>
 		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
@@ -3277,6 +3389,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0515]]></wp:meta_value>
@@ -3507,6 +3627,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0516]]></wp:meta_value>
 		</wp:postmeta>
@@ -3735,6 +3863,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0517]]></wp:meta_value>
@@ -3965,6 +4101,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0518]]></wp:meta_value>
 		</wp:postmeta>
@@ -4193,6 +4337,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0519]]></wp:meta_value>
@@ -4423,6 +4575,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0520]]></wp:meta_value>
 		</wp:postmeta>
@@ -4651,6 +4811,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0521]]></wp:meta_value>
@@ -4881,6 +5049,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0522]]></wp:meta_value>
 		</wp:postmeta>
@@ -5109,6 +5285,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0523]]></wp:meta_value>
@@ -5339,6 +5523,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0524]]></wp:meta_value>
 		</wp:postmeta>
@@ -5568,6 +5760,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0525]]></wp:meta_value>
 		</wp:postmeta>
@@ -5773,8 +5973,8 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		</wp:postmeta>
 		</item>
 		<item>
-		<title><![CDATA[T-0526 | Radio Newyork International via WWCR | 8-3-1992, UTC Date]]></title>
-		<link>https://kb0rxf.org/t-0526-radio-newyork-international-via-wwcr-8-3-1992-utc-date/</link>
+		<title><![CDATA[T-0526 | Radio Newyork International via WWCR | 8-31-1992, UTC Date]]></title>
+		<link>https://kb0rxf.org/t-0526-radio-newyork-international-via-wwcr-8-31-1992-utc-date/</link>
 		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[dejunai]]></dc:creator>
 		<guid isPermaLink="false">https://kb0rxf.org/?p=2525</guid>
@@ -5788,7 +5988,7 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[t-0526-radio-newyork-international-via-wwcr-8-3-1992-utc-date]]></wp:post_name>
+		<wp:post_name><![CDATA[t-0526-radio-newyork-international-via-wwcr-8-31-1992-utc-date]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -5796,238 +5996,17 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0526]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29eaa]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[date_recorded]]></wp:meta_key>
-		<wp:meta_value><![CDATA[8-3-1992, UTC Date]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_date_recorded]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29ee6]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[time_utc]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_time_utc]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29f20]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[station]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Radio Newyork International via WWCR]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_station]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29f5a]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[frequency]]></wp:meta_key>
-		<wp:meta_value><![CDATA[7435 kHz]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_frequency]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29f93]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[station_location]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Nashville, TN]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_station_location]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29fcd]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[show_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_show_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69fb97e39a74f]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[talent_dj]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Pirate Joe / John Lightning & The 11L Pirate Crew]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_talent_dj]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a007]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[recorded_by]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Jon Heckman]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_recorded_by]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a040]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[receiver]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Hallicrafters S-120, with long wire antenna of unknown length]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_receiver]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a07a]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[original_recording_device]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Realistic CTR-41]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_original_recording_device]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a0b5]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[media_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[cassette]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_media_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a0ee]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[media_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[(3) VAC C-90]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_media_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69fb9e72f7512]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[recording_location]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Lincoln, NE]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_recording_location]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a128]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[digitized_by]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Jon Heckman, KB0RXF]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_digitized_by]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a162]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[digitization_device]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Marantz PMD 561]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_digitization_device]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a19b]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[cd_burner]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_cd_burner]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a1d5]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[software]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Adobe Audition 3.0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_software]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a20e]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[container]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_container]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a282]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[playback_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[pending]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_playback_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a2f5]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[condition_notes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_condition_notes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a32e]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[kb0rxf76_remembers]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_kb0rxf76_remembers]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a368]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[sample_30sec]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_sample_30sec]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a3a2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_source_txt_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[txt/ZZZ Radio Newyork International via WWCR, Nashville, TN [8-3-1992, UTC Date][Notes].txt]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_source_txt_full]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Radio Newyork International via WWCR, Nashville, TN, 7435 kHz
-8-3-1992, UTC Date
-Pirate Joe/John Lightning & The 11L Pirate Crew
-
-Recorded By:  Jon Heckman
-Receiver:  Hallicrafters S-120, with long wire antenna of unknown length
-Tape Deck:  Realistic CTR-41
-Tapes:  (3) VAC C-90
-Recording Location:  Lincoln, NE
-
-Digitized By:  Jon Heckman, KB0RXF
-Recorder:  Marantz PMD 561
-Software:  Adobe Audition 3.0]]></wp:meta_value>
-		</wp:postmeta>
-		</item>
-		<item>
-		<title><![CDATA[T-0527 | Radio Newyork International via WWCR | 8-31-1992, UTC Date]]></title>
-		<link>https://kb0rxf.org/t-0527-radio-newyork-international-via-wwcr-8-31-1992-utc-date/</link>
-		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[dejunai]]></dc:creator>
-		<guid isPermaLink="false">https://kb0rxf.org/?p=2526</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2526</wp:post_id>
-		<wp:post_date><![CDATA[2026-05-06 00:00:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-05-06 00:00:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[t-0527-radio-newyork-international-via-wwcr-8-31-1992-utc-date]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[T-0527]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
@@ -6231,6 +6210,243 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		</wp:postmeta>
 		</item>
 		<item>
+		<title><![CDATA[T-0527 | Radio Newyork International via WWCR | 8-3-1992, UTC Date]]></title>
+		<link>https://kb0rxf.org/t-0527-radio-newyork-international-via-wwcr-8-3-1992-utc-date/</link>
+		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[dejunai]]></dc:creator>
+		<guid isPermaLink="false">https://kb0rxf.org/?p=2526</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2526</wp:post_id>
+		<wp:post_date><![CDATA[2026-05-06 00:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-05-06 00:00:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[t-0527-radio-newyork-international-via-wwcr-8-3-1992-utc-date]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[T-0527]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29eaa]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[date_recorded]]></wp:meta_key>
+		<wp:meta_value><![CDATA[8-3-1992, UTC Date]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_date_recorded]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29ee6]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[time_utc]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_time_utc]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29f20]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[station]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Radio Newyork International via WWCR]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_station]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29f5a]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[frequency]]></wp:meta_key>
+		<wp:meta_value><![CDATA[7435 kHz]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_frequency]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29f93]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[station_location]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Nashville, TN]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_station_location]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29fcd]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[show_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_show_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69fb97e39a74f]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[talent_dj]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Pirate Joe / John Lightning & The 11L Pirate Crew]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_talent_dj]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a007]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recorded_by]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Jon Heckman]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recorded_by]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a040]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[receiver]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Hallicrafters S-120, with long wire antenna of unknown length]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_receiver]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a07a]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[original_recording_device]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Realistic CTR-41]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_original_recording_device]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a0b5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[media_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[cassette]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_media_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a0ee]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[media_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[(3) VAC C-90]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_media_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69fb9e72f7512]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_location]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Lincoln, NE]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_location]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a128]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[digitized_by]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Jon Heckman, KB0RXF]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_digitized_by]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a162]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[digitization_device]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Marantz PMD 561]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_digitization_device]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a19b]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[cd_burner]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_cd_burner]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a1d5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[software]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Adobe Audition 3.0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_software]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a20e]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[container]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_container]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a282]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[playback_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[pending]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_playback_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a2f5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[condition_notes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_condition_notes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a32e]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[kb0rxf76_remembers]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_kb0rxf76_remembers]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a368]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[sample_30sec]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_sample_30sec]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a3a2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_source_txt_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[txt/ZZZ Radio Newyork International via WWCR, Nashville, TN [8-3-1992, UTC Date][Notes].txt]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_source_txt_full]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Radio Newyork International via WWCR, Nashville, TN, 7435 kHz
+8-3-1992, UTC Date
+Pirate Joe/John Lightning & The 11L Pirate Crew
+
+Recorded By:  Jon Heckman
+Receiver:  Hallicrafters S-120, with long wire antenna of unknown length
+Tape Deck:  Realistic CTR-41
+Tapes:  (3) VAC C-90
+Recording Location:  Lincoln, NE
+
+Digitized By:  Jon Heckman, KB0RXF
+Recorder:  Marantz PMD 561
+Software:  Adobe Audition 3.0]]></wp:meta_value>
+		</wp:postmeta>
+		</item>
+		<item>
 		<title><![CDATA[T-0528 | Radio Newyork International via WWCR | 9-14-1992, UTC Date]]></title>
 		<link>https://kb0rxf.org/t-0528-radio-newyork-international-via-wwcr-9-14-1992-utc-date/</link>
 		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
@@ -6254,6 +6470,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0528]]></wp:meta_value>
@@ -6484,6 +6708,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0529]]></wp:meta_value>
 		</wp:postmeta>
@@ -6712,6 +6944,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0530]]></wp:meta_value>
@@ -6942,6 +7182,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shortwave]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0531]]></wp:meta_value>
 		</wp:postmeta>
@@ -7170,6 +7418,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0532]]></wp:meta_value>
@@ -7400,6 +7656,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0533]]></wp:meta_value>
 		</wp:postmeta>
@@ -7628,6 +7892,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0534]]></wp:meta_value>

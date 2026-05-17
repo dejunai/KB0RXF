@@ -1,7 +1,7 @@
 param(
     [string]$ZipPath = ".\txt.zip",
     [string]$PostsTemplatePath = ".\first batch set\kb0rxf76radioarchive.posts.WordPress.2026-05-04.xml",
-    [string]$AcfJsonPath = ".\acf-export-2026-05-06.Media Entry.json",
+    [string]$AcfJsonPath = ".\acf-v3-bulletproof.json",
     [string]$OutputDir = ".\container experiment",
     [int]$BatchSize = 50,
     [int]$StartingPostId = 2000
@@ -316,6 +316,7 @@ function Parse-Note {
     $nonEmpty = @($lines | Where-Object { $_.Trim() -ne "" })
 
     $fields = [ordered]@{
+        recording_category = "broadcast"
         tape_id = $TapeId
         date_recorded = Get-DateFromName $EntryName
         time_utc = ""
@@ -431,6 +432,17 @@ function Parse-Note {
     }
     if ($leftovers.Count -gt 0) {
         $fields.condition_notes = Normalize-Value ($leftovers -join "`n")
+    }
+
+    # Auto-classify the recording category based on simple heuristics
+    if ($fields.station -match "(?i)dispatch|police|fire|sheriff|patrol|emergency|ems") {
+        $fields.recording_category = "scanner"
+    }
+    elseif ($fields.station -match "(?i)india|bbc|radio exterior|shortwave|international|world service" -or $fields.frequency -match "(?i)khz" -or $fields.time_utc) {
+        $fields.recording_category = "shortwave"
+    }
+    elseif ($fields.station -match "(?i)found tape|unknown content") {
+        $fields.recording_category = "other"
     }
 
     return $fields

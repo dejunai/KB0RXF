@@ -72,6 +72,14 @@
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0401]]></wp:meta_value>
 		</wp:postmeta>
@@ -295,6 +303,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0402]]></wp:meta_value>
@@ -520,6 +536,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0403]]></wp:meta_value>
 		</wp:postmeta>
@@ -743,6 +767,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0404]]></wp:meta_value>
@@ -968,6 +1000,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0405]]></wp:meta_value>
 		</wp:postmeta>
@@ -1191,6 +1231,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0406]]></wp:meta_value>
@@ -1416,6 +1464,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0407]]></wp:meta_value>
 		</wp:postmeta>
@@ -1639,6 +1695,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0408]]></wp:meta_value>
@@ -1864,6 +1928,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0409]]></wp:meta_value>
 		</wp:postmeta>
@@ -2087,6 +2159,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0410]]></wp:meta_value>
@@ -2312,6 +2392,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0411]]></wp:meta_value>
 		</wp:postmeta>
@@ -2535,6 +2623,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0412]]></wp:meta_value>
@@ -2760,6 +2856,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0413]]></wp:meta_value>
 		</wp:postmeta>
@@ -2983,6 +3087,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0414]]></wp:meta_value>
@@ -3208,6 +3320,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0415]]></wp:meta_value>
 		</wp:postmeta>
@@ -3431,6 +3551,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0416]]></wp:meta_value>
@@ -3656,6 +3784,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0417]]></wp:meta_value>
 		</wp:postmeta>
@@ -3879,6 +4015,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0418]]></wp:meta_value>
@@ -4104,6 +4248,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0419]]></wp:meta_value>
 		</wp:postmeta>
@@ -4327,6 +4479,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0420]]></wp:meta_value>
@@ -4552,6 +4712,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0421]]></wp:meta_value>
 		</wp:postmeta>
@@ -4775,6 +4943,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0422]]></wp:meta_value>
@@ -5000,6 +5176,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0423]]></wp:meta_value>
 		</wp:postmeta>
@@ -5223,6 +5407,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0424]]></wp:meta_value>
@@ -5448,6 +5640,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0425]]></wp:meta_value>
 		</wp:postmeta>
@@ -5671,6 +5871,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0426]]></wp:meta_value>
@@ -5896,6 +6104,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0427]]></wp:meta_value>
 		</wp:postmeta>
@@ -6096,8 +6312,8 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		</wp:postmeta>
 		</item>
 		<item>
-		<title><![CDATA[T-0428 | WZ255 | 9-1-2022, 12 a.m. PDT hour]]></title>
-		<link>https://kb0rxf.org/t-0428-wz255-9-1-2022-12-a-m-pdt-hour/</link>
+		<title><![CDATA[T-0428 | WZ255 | 9-10-2022, 12 a.m. PDT hour]]></title>
+		<link>https://kb0rxf.org/t-0428-wz255-9-10-2022-12-a-m-pdt-hour/</link>
 		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[dejunai]]></dc:creator>
 		<guid isPermaLink="false">https://kb0rxf.org/?p=2427</guid>
@@ -6111,7 +6327,7 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[t-0428-wz255-9-1-2022-12-a-m-pdt-hour]]></wp:post_name>
+		<wp:post_name><![CDATA[t-0428-wz255-9-10-2022-12-a-m-pdt-hour]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -6119,233 +6335,17 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0428]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29eaa]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[date_recorded]]></wp:meta_key>
-		<wp:meta_value><![CDATA[9-1-2022, 12 a.m. PDT hour]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_date_recorded]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29ee6]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[time_utc]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_time_utc]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29f20]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[station]]></wp:meta_key>
-		<wp:meta_value><![CDATA[WZ255]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_station]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29f5a]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[frequency]]></wp:meta_key>
-		<wp:meta_value><![CDATA[162.450 MHz]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_frequency]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29f93]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[station_location]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Eureka/Horse Mtn., CA]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_station_location]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29fcd]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[show_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_show_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69fb97e39a74f]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[talent_dj]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Automated]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_talent_dj]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a007]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[recorded_by]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Jon Heckman, KB0RXF]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_recorded_by]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a040]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[receiver]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Uniden Bearcat Trunk Tracker]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_receiver]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a07a]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[original_recording_device]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Marantz PMD 561]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_original_recording_device]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a0b5]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[media_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[cassette]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_media_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a0ee]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[media_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_media_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69fb9e72f7512]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[recording_location]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Arcata, CA]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_recording_location]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a128]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[digitized_by]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_digitized_by]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a162]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[digitization_device]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_digitization_device]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a19b]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[cd_burner]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_cd_burner]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a1d5]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[software]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_software]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a20e]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[container]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_container]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a282]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[playback_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[pending]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_playback_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a2f5]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[condition_notes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_condition_notes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a32e]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[kb0rxf76_remembers]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_kb0rxf76_remembers]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a368]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[sample_30sec]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_sample_30sec]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a3a2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_source_txt_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[txt/WZ255, Eureka-Horse Mtn., CA [9-1-2022][Notes].txt]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_source_txt_full]]></wp:meta_key>
-		<wp:meta_value><![CDATA[WZ255, Eureka/Horse Mtn., CA, 162.450 MHz
-9-1-2022, 12 a.m. PDT hour
-Automated
-
-Recorded By:  Jon Heckman, KB0RXF
-Receiver:  Uniden Bearcat Trunk Tracker
-Recorder:  Marantz PMD 561
-Recording Location:  Arcata, CA]]></wp:meta_value>
-		</wp:postmeta>
-		</item>
-		<item>
-		<title><![CDATA[T-0429 | WZ255 | 9-10-2022, 12 a.m. PDT hour]]></title>
-		<link>https://kb0rxf.org/t-0429-wz255-9-10-2022-12-a-m-pdt-hour/</link>
-		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[dejunai]]></dc:creator>
-		<guid isPermaLink="false">https://kb0rxf.org/?p=2428</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2428</wp:post_id>
-		<wp:post_date><![CDATA[2026-05-06 00:00:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-05-06 00:00:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[t-0429-wz255-9-10-2022-12-a-m-pdt-hour]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[T-0429]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
@@ -6544,22 +6544,22 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		</wp:postmeta>
 		</item>
 		<item>
-		<title><![CDATA[T-0430 | WZ255 | 9-11-2022, 12 a.m. PDT hour]]></title>
-		<link>https://kb0rxf.org/t-0430-wz255-9-11-2022-12-a-m-pdt-hour/</link>
+		<title><![CDATA[T-0429 | WZ255 | 9-11-2022, 12 a.m. PDT hour]]></title>
+		<link>https://kb0rxf.org/t-0429-wz255-9-11-2022-12-a-m-pdt-hour/</link>
 		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[dejunai]]></dc:creator>
-		<guid isPermaLink="false">https://kb0rxf.org/?p=2429</guid>
+		<guid isPermaLink="false">https://kb0rxf.org/?p=2428</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2429</wp:post_id>
+		<wp:post_id>2428</wp:post_id>
 		<wp:post_date><![CDATA[2026-05-06 00:00:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2026-05-06 00:00:00]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[t-0430-wz255-9-11-2022-12-a-m-pdt-hour]]></wp:post_name>
+		<wp:post_name><![CDATA[t-0429-wz255-9-11-2022-12-a-m-pdt-hour]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -6568,8 +6568,16 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[T-0430]]></wp:meta_value>
+		<wp:meta_value><![CDATA[T-0429]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
@@ -6768,6 +6776,238 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		</wp:postmeta>
 		</item>
 		<item>
+		<title><![CDATA[T-0430 | WZ255 | 9-1-2022, 12 a.m. PDT hour]]></title>
+		<link>https://kb0rxf.org/t-0430-wz255-9-1-2022-12-a-m-pdt-hour/</link>
+		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[dejunai]]></dc:creator>
+		<guid isPermaLink="false">https://kb0rxf.org/?p=2429</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2429</wp:post_id>
+		<wp:post_date><![CDATA[2026-05-06 00:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-05-06 00:00:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[t-0430-wz255-9-1-2022-12-a-m-pdt-hour]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[T-0430]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29eaa]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[date_recorded]]></wp:meta_key>
+		<wp:meta_value><![CDATA[9-1-2022, 12 a.m. PDT hour]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_date_recorded]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29ee6]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[time_utc]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_time_utc]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29f20]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[station]]></wp:meta_key>
+		<wp:meta_value><![CDATA[WZ255]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_station]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29f5a]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[frequency]]></wp:meta_key>
+		<wp:meta_value><![CDATA[162.450 MHz]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_frequency]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29f93]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[station_location]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Eureka/Horse Mtn., CA]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_station_location]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29fcd]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[show_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_show_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69fb97e39a74f]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[talent_dj]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Automated]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_talent_dj]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a007]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recorded_by]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Jon Heckman, KB0RXF]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recorded_by]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a040]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[receiver]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Uniden Bearcat Trunk Tracker]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_receiver]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a07a]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[original_recording_device]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Marantz PMD 561]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_original_recording_device]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a0b5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[media_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[cassette]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_media_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a0ee]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[media_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_media_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69fb9e72f7512]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_location]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Arcata, CA]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_location]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a128]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[digitized_by]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_digitized_by]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a162]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[digitization_device]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_digitization_device]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a19b]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[cd_burner]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_cd_burner]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a1d5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[software]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_software]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a20e]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[container]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_container]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a282]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[playback_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[pending]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_playback_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a2f5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[condition_notes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_condition_notes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a32e]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[kb0rxf76_remembers]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_kb0rxf76_remembers]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a368]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[sample_30sec]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_sample_30sec]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a3a2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_source_txt_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[txt/WZ255, Eureka-Horse Mtn., CA [9-1-2022][Notes].txt]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_source_txt_full]]></wp:meta_key>
+		<wp:meta_value><![CDATA[WZ255, Eureka/Horse Mtn., CA, 162.450 MHz
+9-1-2022, 12 a.m. PDT hour
+Automated
+
+Recorded By:  Jon Heckman, KB0RXF
+Receiver:  Uniden Bearcat Trunk Tracker
+Recorder:  Marantz PMD 561
+Recording Location:  Arcata, CA]]></wp:meta_value>
+		</wp:postmeta>
+		</item>
+		<item>
 		<title><![CDATA[T-0431 | WZ255 | 9-12-2020, 9 p.m. hour into 11 p.m. PDT hour]]></title>
 		<link>https://kb0rxf.org/t-0431-wz255-9-12-2020-9-p-m-hour-into-11-p-m-pdt-hour/</link>
 		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
@@ -6791,6 +7031,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0431]]></wp:meta_value>
@@ -7017,6 +7265,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0432]]></wp:meta_value>
 		</wp:postmeta>
@@ -7240,6 +7496,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0433]]></wp:meta_value>
@@ -7466,6 +7730,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0434]]></wp:meta_value>
 		</wp:postmeta>
@@ -7689,6 +7961,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0435]]></wp:meta_value>
@@ -7915,6 +8195,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0436]]></wp:meta_value>
 		</wp:postmeta>
@@ -8138,6 +8426,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0437]]></wp:meta_value>
@@ -8364,6 +8660,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0438]]></wp:meta_value>
 		</wp:postmeta>
@@ -8587,6 +8891,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0439]]></wp:meta_value>
@@ -8813,6 +9125,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0440]]></wp:meta_value>
 		</wp:postmeta>
@@ -9037,6 +9357,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0441]]></wp:meta_value>
 		</wp:postmeta>
@@ -9260,6 +9588,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0442]]></wp:meta_value>
@@ -9486,6 +9822,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0443]]></wp:meta_value>
 		</wp:postmeta>
@@ -9709,6 +10053,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0444]]></wp:meta_value>
@@ -9935,6 +10287,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0445]]></wp:meta_value>
 		</wp:postmeta>
@@ -10158,6 +10518,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0446]]></wp:meta_value>
@@ -10383,6 +10751,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0447]]></wp:meta_value>
 		</wp:postmeta>
@@ -10606,6 +10982,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0448]]></wp:meta_value>
@@ -10831,6 +11215,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0449]]></wp:meta_value>
 		</wp:postmeta>
@@ -11054,6 +11446,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0450]]></wp:meta_value>

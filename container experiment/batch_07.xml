@@ -72,6 +72,14 @@
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0301]]></wp:meta_value>
 		</wp:postmeta>
@@ -301,6 +309,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0302]]></wp:meta_value>
@@ -532,6 +548,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0303]]></wp:meta_value>
 		</wp:postmeta>
@@ -761,6 +785,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0304]]></wp:meta_value>
@@ -992,6 +1024,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0305]]></wp:meta_value>
 		</wp:postmeta>
@@ -1221,6 +1261,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0306]]></wp:meta_value>
@@ -1452,6 +1500,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0307]]></wp:meta_value>
 		</wp:postmeta>
@@ -1681,6 +1737,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0308]]></wp:meta_value>
@@ -1912,6 +1976,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0309]]></wp:meta_value>
 		</wp:postmeta>
@@ -2141,6 +2213,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0310]]></wp:meta_value>
@@ -2372,6 +2452,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0311]]></wp:meta_value>
 		</wp:postmeta>
@@ -2578,8 +2666,8 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		</wp:postmeta>
 		</item>
 		<item>
-		<title><![CDATA[T-0312 | KZUM | 8-1-1995]]></title>
-		<link>https://kb0rxf.org/t-0312-kzum-8-1-1995/</link>
+		<title><![CDATA[T-0312 | KZUM | 8-11-1992]]></title>
+		<link>https://kb0rxf.org/t-0312-kzum-8-11-1992/</link>
 		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[dejunai]]></dc:creator>
 		<guid isPermaLink="false">https://kb0rxf.org/?p=2311</guid>
@@ -2593,7 +2681,7 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[t-0312-kzum-8-1-1995]]></wp:post_name>
+		<wp:post_name><![CDATA[t-0312-kzum-8-11-1992]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -2602,8 +2690,254 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0312]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29eaa]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[date_recorded]]></wp:meta_key>
+		<wp:meta_value><![CDATA[8-11-1992]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_date_recorded]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29ee6]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[time_utc]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_time_utc]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29f20]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[station]]></wp:meta_key>
+		<wp:meta_value><![CDATA[KZUM]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_station]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29f5a]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[frequency]]></wp:meta_key>
+		<wp:meta_value><![CDATA[89.3 MHz]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_frequency]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29f93]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[station_location]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Lincoln, NE]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_station_location]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29fcd]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[show_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Pong]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_show_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69fb97e39a74f]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[talent_dj]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Pawl Tisdale]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_talent_dj]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a007]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recorded_by]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Jon Heckman]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recorded_by]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a040]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[receiver]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Sherwood S-7110]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_receiver]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a07a]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[original_recording_device]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Teac A-440]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_original_recording_device]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a0b5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[media_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[cassette]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_media_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a0ee]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[media_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[(1) Memorex dBS 120]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_media_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69fb9e72f7512]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_location]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Lincoln, NE]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_location]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a128]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[digitized_by]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Jon Heckman, KB0RXF]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_digitized_by]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a162]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[digitization_device]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Tascam Porta 03 Ministudio]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_digitization_device]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a19b]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[cd_burner]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Teac CD-RW890MKII-B]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_cd_burner]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a1d5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[software]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Adobe Audition 3.0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_software]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a20e]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[container]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_container]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a282]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[playback_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[pending]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_playback_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a2f5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[condition_notes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_condition_notes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a32e]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[kb0rxf76_remembers]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_kb0rxf76_remembers]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a368]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[sample_30sec]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_sample_30sec]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a3a2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_source_txt_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[txt/KZUM, Lincoln, NE [8-11-1992][Notes].txt]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_source_txt_full]]></wp:meta_key>
+		<wp:meta_value><![CDATA[KZUM, Lincoln, NE, 89.3 MHz
+8-11-1992
+Pawl Tisdale:  Pong
+
+Recorded By:  Jon Heckman
+Receiver:  Sherwood S-7110
+Tape Deck:  Teac A-440
+Tape:  (1) Memorex dBS 120
+Recording Location:  Lincoln, NE
+
+Digitized By:  Jon Heckman, KB0RXF
+Tape Deck:  Tascam Porta 03 Ministudio
+CD Burner:  Teac CD-RW890MKII-B
+Software:  Adobe Audition 3.0]]></wp:meta_value>
+		</wp:postmeta>
+		</item>
+		<item>
+		<title><![CDATA[T-0313 | KZUM | 8-1-1995]]></title>
+		<link>https://kb0rxf.org/t-0313-kzum-8-1-1995/</link>
+		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[dejunai]]></dc:creator>
+		<guid isPermaLink="false">https://kb0rxf.org/?p=2312</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2312</wp:post_id>
+		<wp:post_date><![CDATA[2026-05-06 00:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-05-06 00:00:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[t-0313-kzum-8-1-1995]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[T-0313]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
@@ -2808,22 +3142,22 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		</wp:postmeta>
 		</item>
 		<item>
-		<title><![CDATA[T-0313 | KZUM | 8-1-2000]]></title>
-		<link>https://kb0rxf.org/t-0313-kzum-8-1-2000/</link>
+		<title><![CDATA[T-0314 | KZUM | 8-1-2000]]></title>
+		<link>https://kb0rxf.org/t-0314-kzum-8-1-2000/</link>
 		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[dejunai]]></dc:creator>
-		<guid isPermaLink="false">https://kb0rxf.org/?p=2312</guid>
+		<guid isPermaLink="false">https://kb0rxf.org/?p=2313</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2312</wp:post_id>
+		<wp:post_id>2313</wp:post_id>
 		<wp:post_date><![CDATA[2026-05-06 00:00:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2026-05-06 00:00:00]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[t-0313-kzum-8-1-2000]]></wp:post_name>
+		<wp:post_name><![CDATA[t-0314-kzum-8-1-2000]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -2832,8 +3166,16 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[T-0313]]></wp:meta_value>
+		<wp:meta_value><![CDATA[T-0314]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
@@ -3039,236 +3381,6 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		</wp:postmeta>
 		</item>
 		<item>
-		<title><![CDATA[T-0314 | KZUM | 8-11-1992]]></title>
-		<link>https://kb0rxf.org/t-0314-kzum-8-11-1992/</link>
-		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[dejunai]]></dc:creator>
-		<guid isPermaLink="false">https://kb0rxf.org/?p=2313</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2313</wp:post_id>
-		<wp:post_date><![CDATA[2026-05-06 00:00:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-05-06 00:00:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[t-0314-kzum-8-11-1992]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[T-0314]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29eaa]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[date_recorded]]></wp:meta_key>
-		<wp:meta_value><![CDATA[8-11-1992]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_date_recorded]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29ee6]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[time_utc]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_time_utc]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29f20]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[station]]></wp:meta_key>
-		<wp:meta_value><![CDATA[KZUM]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_station]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29f5a]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[frequency]]></wp:meta_key>
-		<wp:meta_value><![CDATA[89.3 MHz]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_frequency]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29f93]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[station_location]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Lincoln, NE]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_station_location]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29fcd]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[show_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Pong]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_show_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69fb97e39a74f]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[talent_dj]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Pawl Tisdale]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_talent_dj]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a007]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[recorded_by]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Jon Heckman]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_recorded_by]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a040]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[receiver]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Sherwood S-7110]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_receiver]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a07a]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[original_recording_device]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Teac A-440]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_original_recording_device]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a0b5]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[media_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[cassette]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_media_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a0ee]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[media_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[(1) Memorex dBS 120]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_media_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69fb9e72f7512]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[recording_location]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Lincoln, NE]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_recording_location]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a128]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[digitized_by]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Jon Heckman, KB0RXF]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_digitized_by]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a162]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[digitization_device]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Tascam Porta 03 Ministudio]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_digitization_device]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a19b]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[cd_burner]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Teac CD-RW890MKII-B]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_cd_burner]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a1d5]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[software]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Adobe Audition 3.0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_software]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a20e]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[container]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_container]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a282]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[playback_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[pending]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_playback_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a2f5]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[condition_notes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_condition_notes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a32e]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[kb0rxf76_remembers]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_kb0rxf76_remembers]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a368]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[sample_30sec]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_sample_30sec]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a3a2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_source_txt_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[txt/KZUM, Lincoln, NE [8-11-1992][Notes].txt]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_source_txt_full]]></wp:meta_key>
-		<wp:meta_value><![CDATA[KZUM, Lincoln, NE, 89.3 MHz
-8-11-1992
-Pawl Tisdale:  Pong
-
-Recorded By:  Jon Heckman
-Receiver:  Sherwood S-7110
-Tape Deck:  Teac A-440
-Tape:  (1) Memorex dBS 120
-Recording Location:  Lincoln, NE
-
-Digitized By:  Jon Heckman, KB0RXF
-Tape Deck:  Tascam Porta 03 Ministudio
-CD Burner:  Teac CD-RW890MKII-B
-Software:  Adobe Audition 3.0]]></wp:meta_value>
-		</wp:postmeta>
-		</item>
-		<item>
 		<title><![CDATA[T-0315 | KZUM | 8-12-1992]]></title>
 		<link>https://kb0rxf.org/t-0315-kzum-8-12-1992/</link>
 		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
@@ -3292,6 +3404,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0315]]></wp:meta_value>
@@ -3523,6 +3643,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0316]]></wp:meta_value>
 		</wp:postmeta>
@@ -3752,6 +3880,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0317]]></wp:meta_value>
@@ -3983,6 +4119,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0318]]></wp:meta_value>
 		</wp:postmeta>
@@ -4212,6 +4356,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0319]]></wp:meta_value>
@@ -4443,6 +4595,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0320]]></wp:meta_value>
 		</wp:postmeta>
@@ -4672,6 +4832,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0321]]></wp:meta_value>
@@ -4903,6 +5071,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0322]]></wp:meta_value>
 		</wp:postmeta>
@@ -5132,6 +5308,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0323]]></wp:meta_value>
@@ -5363,6 +5547,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0324]]></wp:meta_value>
 		</wp:postmeta>
@@ -5592,6 +5784,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0325]]></wp:meta_value>
@@ -5823,6 +6023,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0326]]></wp:meta_value>
 		</wp:postmeta>
@@ -6052,6 +6260,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0327]]></wp:meta_value>
@@ -6283,6 +6499,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0328]]></wp:meta_value>
 		</wp:postmeta>
@@ -6513,6 +6737,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0329]]></wp:meta_value>
 		</wp:postmeta>
@@ -6742,6 +6974,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0330]]></wp:meta_value>
@@ -6977,6 +7217,14 @@ Software:  Adobe Audition 3.0
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0331]]></wp:meta_value>
 		</wp:postmeta>
@@ -7200,6 +7448,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0332]]></wp:meta_value>
@@ -7425,6 +7681,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0333]]></wp:meta_value>
 		</wp:postmeta>
@@ -7648,6 +7912,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0334]]></wp:meta_value>
@@ -7873,6 +8145,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0335]]></wp:meta_value>
 		</wp:postmeta>
@@ -8073,8 +8353,8 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		</wp:postmeta>
 		</item>
 		<item>
-		<title><![CDATA[T-0336 | KZZH-LP | 10-2-2021]]></title>
-		<link>https://kb0rxf.org/t-0336-kzzh-lp-10-2-2021/</link>
+		<title><![CDATA[T-0336 | KZZH-LP | 10-20-2021]]></title>
+		<link>https://kb0rxf.org/t-0336-kzzh-lp-10-20-2021/</link>
 		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[dejunai]]></dc:creator>
 		<guid isPermaLink="false">https://kb0rxf.org/?p=2335</guid>
@@ -8088,7 +8368,7 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[t-0336-kzzh-lp-10-2-2021]]></wp:post_name>
+		<wp:post_name><![CDATA[t-0336-kzzh-lp-10-20-2021]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -8096,233 +8376,17 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0336]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29eaa]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[date_recorded]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10-2-2021]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_date_recorded]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29ee6]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[time_utc]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_time_utc]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29f20]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[station]]></wp:meta_key>
-		<wp:meta_value><![CDATA[KZZH-LP]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_station]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29f5a]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[frequency]]></wp:meta_key>
-		<wp:meta_value><![CDATA[96.7 MHz]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_frequency]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29f93]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[station_location]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Eureka, CA]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_station_location]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc29fcd]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[show_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_show_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69fb97e39a74f]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[talent_dj]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Automated]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_talent_dj]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a007]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[recorded_by]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Jon Heckman, KB0RXF]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_recorded_by]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a040]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[receiver]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Radio Shack Realistic DX-390]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_receiver]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a07a]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[original_recording_device]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Marantz PMD 561]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_original_recording_device]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a0b5]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[media_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[cassette]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_media_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a0ee]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[media_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_media_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69fb9e72f7512]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[recording_location]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Arcata, CA]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_recording_location]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a128]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[digitized_by]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_digitized_by]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a162]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[digitization_device]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_digitization_device]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a19b]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[cd_burner]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_cd_burner]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a1d5]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[software]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_software]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a20e]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[container]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_container]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a282]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[playback_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[pending]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_playback_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a2f5]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[condition_notes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_condition_notes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a32e]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[kb0rxf76_remembers]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_kb0rxf76_remembers]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a368]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[sample_30sec]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_sample_30sec]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_69f8b3bc2a3a2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_source_txt_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[txt/KZZH-LP, Eureka, CA [10-2-2021][Notes].txt]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_source_txt_full]]></wp:meta_key>
-		<wp:meta_value><![CDATA[KZZH-LP, Eureka, CA, 96.7 MHz
-10-2-2021
-Automated
-
-Recorded By:  Jon Heckman, KB0RXF
-Receiver:  Radio Shack Realistic DX-390
-Recorder:  Marantz PMD 561
-Recording Location:  Arcata, CA]]></wp:meta_value>
-		</wp:postmeta>
-		</item>
-		<item>
-		<title><![CDATA[T-0337 | KZZH-LP | 10-20-2021]]></title>
-		<link>https://kb0rxf.org/t-0337-kzzh-lp-10-20-2021/</link>
-		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[dejunai]]></dc:creator>
-		<guid isPermaLink="false">https://kb0rxf.org/?p=2336</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2336</wp:post_id>
-		<wp:post_date><![CDATA[2026-05-06 00:00:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-05-06 00:00:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[t-0337-kzzh-lp-10-20-2021]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[T-0337]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
@@ -8521,6 +8585,238 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		</wp:postmeta>
 		</item>
 		<item>
+		<title><![CDATA[T-0337 | KZZH-LP | 10-2-2021]]></title>
+		<link>https://kb0rxf.org/t-0337-kzzh-lp-10-2-2021/</link>
+		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[dejunai]]></dc:creator>
+		<guid isPermaLink="false">https://kb0rxf.org/?p=2336</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2336</wp:post_id>
+		<wp:post_date><![CDATA[2026-05-06 00:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-05-06 00:00:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-05-06 00:00:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[t-0337-kzzh-lp-10-2-2021]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[T-0337]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_tape_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29eaa]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[date_recorded]]></wp:meta_key>
+		<wp:meta_value><![CDATA[10-2-2021]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_date_recorded]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29ee6]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[time_utc]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_time_utc]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29f20]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[station]]></wp:meta_key>
+		<wp:meta_value><![CDATA[KZZH-LP]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_station]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29f5a]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[frequency]]></wp:meta_key>
+		<wp:meta_value><![CDATA[96.7 MHz]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_frequency]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29f93]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[station_location]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Eureka, CA]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_station_location]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc29fcd]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[show_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_show_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69fb97e39a74f]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[talent_dj]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Automated]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_talent_dj]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a007]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recorded_by]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Jon Heckman, KB0RXF]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recorded_by]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a040]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[receiver]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Radio Shack Realistic DX-390]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_receiver]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a07a]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[original_recording_device]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Marantz PMD 561]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_original_recording_device]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a0b5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[media_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[cassette]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_media_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a0ee]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[media_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_media_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69fb9e72f7512]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_location]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Arcata, CA]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_location]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a128]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[digitized_by]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_digitized_by]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a162]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[digitization_device]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_digitization_device]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a19b]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[cd_burner]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_cd_burner]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a1d5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[software]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_software]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a20e]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[container]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_container]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a282]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[playback_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[pending]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_playback_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a2f5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[condition_notes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_condition_notes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a32e]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[kb0rxf76_remembers]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_kb0rxf76_remembers]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a368]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[sample_30sec]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_sample_30sec]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_69f8b3bc2a3a2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_source_txt_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[txt/KZZH-LP, Eureka, CA [10-2-2021][Notes].txt]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_source_txt_full]]></wp:meta_key>
+		<wp:meta_value><![CDATA[KZZH-LP, Eureka, CA, 96.7 MHz
+10-2-2021
+Automated
+
+Recorded By:  Jon Heckman, KB0RXF
+Receiver:  Radio Shack Realistic DX-390
+Recorder:  Marantz PMD 561
+Recording Location:  Arcata, CA]]></wp:meta_value>
+		</wp:postmeta>
+		</item>
+		<item>
 		<title><![CDATA[T-0338 | KZZH-LP | 10-5-2021]]></title>
 		<link>https://kb0rxf.org/t-0338-kzzh-lp-10-5-2021/</link>
 		<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
@@ -8544,6 +8840,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0338]]></wp:meta_value>
@@ -8769,6 +9073,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0339]]></wp:meta_value>
 		</wp:postmeta>
@@ -8992,6 +9304,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0340]]></wp:meta_value>
@@ -9217,6 +9537,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0341]]></wp:meta_value>
 		</wp:postmeta>
@@ -9440,6 +9768,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0342]]></wp:meta_value>
@@ -9665,6 +10001,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0343]]></wp:meta_value>
 		</wp:postmeta>
@@ -9888,6 +10232,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0344]]></wp:meta_value>
@@ -10113,6 +10465,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0345]]></wp:meta_value>
 		</wp:postmeta>
@@ -10336,6 +10696,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0346]]></wp:meta_value>
@@ -10561,6 +10929,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0347]]></wp:meta_value>
 		</wp:postmeta>
@@ -10785,6 +11161,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0348]]></wp:meta_value>
 		</wp:postmeta>
@@ -11008,6 +11392,14 @@ Recording Location:  Arcata, CA]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0349]]></wp:meta_value>
@@ -11238,6 +11630,14 @@ Software:  Adobe Audition 3.0]]></wp:meta_value>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[broadcast]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_recording_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_category_master]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 		<wp:meta_key><![CDATA[tape_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[T-0350]]></wp:meta_value>

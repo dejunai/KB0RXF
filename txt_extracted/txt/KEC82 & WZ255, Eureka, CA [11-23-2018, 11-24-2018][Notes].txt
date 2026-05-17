@@ -1,0 +1,15 @@
+TRACK 01
+KEC82, Eureka/Mt. Pierce, CA, 162.400 MHz
+11-23-2018, 11 p.m. PST hour
+Automated
+
+TRACK 02
+WZ255, Eureka/Horse Mtn., CA, 162.450 MHz
+11-24-2018, 12 a.m. PST hour
+Automated
+
+Recorded By:  Jon Heckman, KB0RXF
+Receiver:  Uniden Bearcat Trunk Tracker
+CD Burner:  TDK DA-5900
+CD:  (1) Verbatim Music CD-R
+Recording Location:  Arcata, CA

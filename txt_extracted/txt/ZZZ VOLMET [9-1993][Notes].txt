@@ -1,0 +1,24 @@
+VOLMET:
+New York Radio, New York, NY, 13.270 MHz USB
+Gander Radio, Gander, NF, Canada, 13.270 MHz USB
+Honolulu Radio, Honolulu, HI, 13.282 MHz USB
+NMN, Portsmouth, VA, Unknown Frequency, USB
+KMI, Inverness, CA, 13.083 MHz USB
+9-1993
+Unknown Personnel
+
+Tape #1, Side A:  Gander Radio, Gander, NF, Canada & New York Radio, New York, NY [9-1-1993]
+Tape #1, Side B:  Honolulu Radio, Honolulu, HI, New York Radio, New York, NY, & Gander Radio, Gander, NF, Canada [9-1-1993]
+Tape #2, Side A:  NMN, Portsmouth, VA & KMI, Inverness, CA [9-2-1993]
+Tape #2, Side B:  New York Radio, New York, NY & NMN, Portsmouth, VA [9-3-1993]
+
+Recorded By:  Jon Heckman
+Receiver:  Realistic DX-390, using built-in antenna
+Tape Deck:  Unknown
+Tapes:  (2) IMA C-60
+Recording Location:  Lincoln, NE
+
+Digitized By:  Jon Heckman, KB0RXF
+Tape Deck:  Tascam Porta 03 Ministudio
+CD Burner:  TDK DA-5900
+Software:  Adobe Audition 3.0
